@@ -6,7 +6,10 @@
 🔭 Currently working on Automating Data Harmonisation!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakubdylag) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jakubdylag4328) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakubdylag) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jakubdylag4328) 
+[![ORCID](https://img.shields.io/badge/Orcid-%A6CE3900.svg?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6263-7339) 
+
 
 # 💻 ML Tech:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
