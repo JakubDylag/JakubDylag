@@ -1,6 +1,6 @@
 # 💫 About Me:
 🤝 Searching for Machine Learning Positions<br>
-🎓 Master of Computer Science and Artificial Intelligence<br>
+🎓 MEng Computer Science and Artificial Intelligence<br>
 🏆 Published in CHI'23<br>
 ❤️ Passionate for AGI and democratising ML<br>
 🔭 Currently working on Automating Data Harmonisation!
